@@ -47,6 +47,9 @@ Leave Management:
 ![admin leave types](https://user-images.githubusercontent.com/91948545/235424531-4f12d52c-6026-451e-9f5a-918ff3b83728.png)
 ![admin leave requests](https://user-images.githubusercontent.com/91948545/235424542-cd1dac4a-0938-4cb8-a563-783334ad0a97.png)
 ## employee
+Employee dashboard: 
+![Employee dashboard](https://user-images.githubusercontent.com/91948545/235424697-685d3535-4820-44dc-b35f-74265f52e53f.png)
+Time and attendance tracking:
 
 
 
