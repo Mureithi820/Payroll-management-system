@@ -39,6 +39,9 @@ User Management:
 ![user management](https://user-images.githubusercontent.com/91948545/235423875-6786a62a-491d-41c9-b00b-e799caa1edff.png)
 Payroll management: 
 ![admin payroll administration](https://user-images.githubusercontent.com/91948545/235424087-fa264840-e17f-49da-8f76-528355a1df32.png)
+![admin payroll management](https://user-images.githubusercontent.com/91948545/235424223-2a950f06-27f2-4f2d-914a-0f8ebfe19c85.png)
+Pay schedules page: 
+
 
 
 
