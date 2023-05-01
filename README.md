@@ -54,6 +54,11 @@ Employee dashboard:
 Time and attendance tracking:
 ![Employee time and attendance tracking](https://user-images.githubusercontent.com/91948545/235424857-dc125d5c-3089-4c20-b833-7f7628ebc4b1.png)
 Payroll management: 
+![employee payroll](https://user-images.githubusercontent.com/91948545/235425116-38e7466f-a56b-41d7-94f1-6ceee0b85730.png)
+![employee payslip](https://user-images.githubusercontent.com/91948545/235425133-9f9841d3-d68b-47e5-a11a-15297ece3f36.png)
+Leave requests page: 
+
+
 
 
 
