@@ -43,6 +43,8 @@ Payroll management:
 ![admin payroll management](https://user-images.githubusercontent.com/91948545/235424223-2a950f06-27f2-4f2d-914a-0f8ebfe19c85.png)
 Pay schedules page: 
 ![pay schedules page](https://user-images.githubusercontent.com/91948545/235424348-f6f5abbe-8da5-4b3e-81c5-381af1d09774.png)
+Time and attendance tracking:
+![admin time and attendance tracking](https://user-images.githubusercontent.com/91948545/235424879-f1b50a03-41d5-4d94-b766-b644f7c28a4d.png)
 Leave Management: 
 ![admin leave types](https://user-images.githubusercontent.com/91948545/235424531-4f12d52c-6026-451e-9f5a-918ff3b83728.png)
 ![admin leave requests](https://user-images.githubusercontent.com/91948545/235424542-cd1dac4a-0938-4cb8-a563-783334ad0a97.png)
@@ -50,6 +52,11 @@ Leave Management:
 Employee dashboard: 
 ![Employee dashboard](https://user-images.githubusercontent.com/91948545/235424697-685d3535-4820-44dc-b35f-74265f52e53f.png)
 Time and attendance tracking:
+![Employee time and attendance tracking](https://user-images.githubusercontent.com/91948545/235424857-dc125d5c-3089-4c20-b833-7f7628ebc4b1.png)
+Payroll management: 
+
+
+
 
 
 
