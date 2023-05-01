@@ -1,0 +1,24 @@
+/* Style for the Employee Information page */
+.employee-information {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  /* Style for the employee information table */
+  table {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style for the add employee button */
+  .add-employee-btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  

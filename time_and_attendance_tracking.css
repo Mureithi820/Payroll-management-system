@@ -1,0 +1,18 @@
+header {
+    padding: 2em 0;
+  }
+  
+  .navbar {
+    margin-bottom: 2em;
+  }
+  
+  main {
+    margin: 3em 0;
+  }
+  
+  footer {
+    padding: 2em 0;
+    background-color: #333;
+    color: #fff;
+  }
+  

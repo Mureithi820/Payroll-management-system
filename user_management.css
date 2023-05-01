@@ -1,0 +1,16 @@
+/* Custom styles for this template */
+.navbar {
+  background-color: #f8f9fa !important;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.table {
+  width: 100%;
+  margin-top: 20px;
+}
+.thead-light th {
+  background-color: #f8f9fa;
+  color: #343a40;
+  text-align: center;
+}

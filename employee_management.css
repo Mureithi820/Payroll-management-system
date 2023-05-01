@@ -1,0 +1,64 @@
+/* Employee Management Styles */
+table.employee-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  table.employee-table th,
+  table.employee-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  table.employee-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .employee-actions {
+    text-align: right;
+    margin-bottom: 20px;
+  }
+  
+  .employee-actions a {
+    margin-left: 10px;
+    font-size: 14px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  #employeeModal .modal-dialog {
+    max-width: 800px;
+  }
+  
+  #employeeModal .modal-header {
+    background-color: #007bff;
+    color: #fff;
+    border-bottom: none;
+  }
+  
+  #employeeModal .modal-header h5 {
+    margin: 0;
+  }
+  
+  #employeeModal .modal-body form {
+    margin: 20px;
+  }
+  
+  #employeeModal .modal-body form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  #employeeModal .modal-body form .form-group label {
+    font-weight: bold;
+  }
+  
+  #employeeModal .modal-footer {
+    border-top: none;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: right;
+  }
+  
