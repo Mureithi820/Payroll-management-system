@@ -57,6 +57,7 @@ Payroll management:
 ![employee payroll](https://user-images.githubusercontent.com/91948545/235425116-38e7466f-a56b-41d7-94f1-6ceee0b85730.png)
 ![employee payslip](https://user-images.githubusercontent.com/91948545/235425133-9f9841d3-d68b-47e5-a11a-15297ece3f36.png)
 Leave requests page: 
+![Employee leave request](https://user-images.githubusercontent.com/91948545/235425331-82031f91-de49-4ac6-8b23-8316f1b1e3b0.png)
 
 
 
