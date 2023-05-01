@@ -44,6 +44,10 @@ Payroll management:
 Pay schedules page: 
 ![pay schedules page](https://user-images.githubusercontent.com/91948545/235424348-f6f5abbe-8da5-4b3e-81c5-381af1d09774.png)
 Leave Management: 
+![admin leave types](https://user-images.githubusercontent.com/91948545/235424531-4f12d52c-6026-451e-9f5a-918ff3b83728.png)
+![admin leave requests](https://user-images.githubusercontent.com/91948545/235424542-cd1dac4a-0938-4cb8-a563-783334ad0a97.png)
+## employee
+
 
 
 
