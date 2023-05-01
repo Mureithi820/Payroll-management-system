@@ -33,5 +33,7 @@ Login page:
 ![Login](https://user-images.githubusercontent.com/91948545/235422925-c289903b-3bb1-45b5-8cf0-3feb1bd34022.png)
 Admin dashboard : 
 ![admin dashboard](https://user-images.githubusercontent.com/91948545/235423602-caf8efc9-07be-4748-96c5-78a88681042d.png)
+Employee Management: 
+![employee management](https://user-images.githubusercontent.com/91948545/235423762-517667d5-30e3-49bf-8b52-a912e0ab1f20.png)
 
 
