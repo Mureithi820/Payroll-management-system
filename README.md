@@ -38,6 +38,8 @@ Employee Management:
 User Management: 
 ![user management](https://user-images.githubusercontent.com/91948545/235423875-6786a62a-491d-41c9-b00b-e799caa1edff.png)
 Payroll management: 
+![admin payroll administration](https://user-images.githubusercontent.com/91948545/235424087-fa264840-e17f-49da-8f76-528355a1df32.png)
+
 
 
 
