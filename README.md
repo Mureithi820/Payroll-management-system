@@ -29,6 +29,7 @@ Leave Management: The system allows employees to apply for leave and track their
 User Roles and Permissions: The system supports different user roles and permissions, ensuring that only authorized users can access sensitive information.
 
 ## Screenshots
+## Admin
 Login page:
 ![Login](https://user-images.githubusercontent.com/91948545/235422925-c289903b-3bb1-45b5-8cf0-3feb1bd34022.png)
 Admin dashboard: 
@@ -41,6 +42,10 @@ Payroll management:
 ![admin payroll administration](https://user-images.githubusercontent.com/91948545/235424087-fa264840-e17f-49da-8f76-528355a1df32.png)
 ![admin payroll management](https://user-images.githubusercontent.com/91948545/235424223-2a950f06-27f2-4f2d-914a-0f8ebfe19c85.png)
 Pay schedules page: 
+![pay schedules page](https://user-images.githubusercontent.com/91948545/235424348-f6f5abbe-8da5-4b3e-81c5-381af1d09774.png)
+Leave Management: 
+
+
 
 
 
